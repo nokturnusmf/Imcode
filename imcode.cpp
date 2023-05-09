@@ -137,7 +137,7 @@ T DivCeil(T a, T b) {
 }
 
 std::pair<int32_t, int32_t> CalculateSize(uint64_t size) {
-    auto size_4 = size / 4;
+    auto size_4 = (size + 3) / 4;
     uint64_t n = std::sqrt(size_4);
 
     auto w = DivCeil(size_4, n * 4) * 4;

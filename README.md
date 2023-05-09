@@ -8,7 +8,7 @@ Additionally, data is automatically compressed using [Zstandard](https://github.
 
 ## The Program Source Code, Encoded by Itself
 
-![imcode cpp](https://user-images.githubusercontent.com/10729925/195598996-bbad817a-d324-4e48-9aaa-2222ba90f332.png)
+![image](https://github.com/nokturnusmf/Imcode/assets/10729925/18bb13c7-235f-45c0-a311-28d88dbaff70)
 
 This is an example of what files encoded by this program generally look like. Note that the image has been scaled up manually to avoid browsers attempting to upscale with interpolation, and was additionally exported as a PNG, rather than the BMP files that this program creates.
 
